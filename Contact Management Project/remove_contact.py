@@ -24,4 +24,4 @@ def remove_contact(all_contact):
         print("Contact Remove Successfully")
         return all_contact
     else:
-        print("Contact can't find")
+        print("This Contact can't find")
